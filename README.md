@@ -10,7 +10,7 @@
 <h3 align="left">My Competitive Programming Profiles:</h3>
 
 <a href="https://codeforces.com/profile/_usif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_usif_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/usif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usif" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/usef12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usef12" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
