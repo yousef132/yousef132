@@ -24,6 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef132&show_icons=true&locale=en&layout=compact" alt="yousef132" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousef132&show_icons=true&locale=en" alt="yousef132" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousef132&" alt="yousef132" /></p>
