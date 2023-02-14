@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usef</h1>
-<h3 align="center">A computer sciences student aiming to learn the fundamentals of computer science and algorithms</h3>
+<h3 align="center">A computer sciences student aiming to learn the fundamentals of computer science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousef132&label=Profile%20views&color=0e75b6&style=flat" alt="yousef132" /> </p>
 
