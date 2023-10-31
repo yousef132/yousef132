@@ -10,7 +10,7 @@
 
 - 🌱 I'm learning problem-solving, new technologies, and making some projects with these technologies to improve my skills
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 35% height=95px>
 
 <h3 align="left">My Competitive Programming Profiles:</h3>
 
