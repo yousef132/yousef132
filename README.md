@@ -10,15 +10,24 @@
 
 - 🌱 I'm learning problem-solving, new technologies, and making some projects with these technologies to improve my skills
 
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
 <h3 align="left">My Competitive Programming Profiles:</h3>
 
 <a href="https://codeforces.com/profile/_usif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_usif_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/usef12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usef12" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yousef-saad-487aa921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef saad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008560907474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yosef saad" height="30" width="40" /></a>
+
+</p> 
+
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,5 +40,8 @@
 </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" alt="SQL" width="40" height="40"/> 
 </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef132&show_icons=true&locale=en&layout=compact" alt="yousef132" /></p>
 
