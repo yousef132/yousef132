@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🌱 I'm learning problem-solving, new technologies, and making some projects with these technologies to improve my skills
+- 🌱 Motivated Backend Developer aspiring to become proficient in utilizing .NET framework
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 35% height=95px>
 
